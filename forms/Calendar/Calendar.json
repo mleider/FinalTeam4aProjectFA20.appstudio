@@ -1,0 +1,47 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Calendar",
+        "Elements",
+        "Container1.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 800,
+  "designWidth": 400,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": "320",
+  "id": "Calendar",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "static",
+  "script": null,
+  "setFocusID": "",
+  "style": "body {\n        margin: 0;\n        padding: 0;\n    }\n\n    body,\n    html {\n        height: 100%;\n    }\n\n    .md-add-event-demo {\n        position: absolute;\n        height: 100%;\n    }\n    \n    .md-add-event-demo .mbsc-row {\n        height: 100%;\n    }\n    \n    .md-add-event-demo .md-col-right {\n        overflow: auto;\n        height: 100%;\n        border-left: 1px solid #ccc;\n    }\n    \n    .md-add-event-demo .md-delete-btn {\n        margin: 0;\n        position: absolute;\n        right: 10px;\n        top: 8px;\n        z-index: 1;\n        transition: background-color .3s ease-out;\n    }\n    \n    .mbsc-material .md-add-event-demo .md-delete-btn {\n        top: 6px;\n    }\n    \n    .mbsc-windows .md-add-event-demo .md-delete-btn {\n        top: 10px;\n    }\n    \n    .md-add-event-demo .md-delete-btn.mbsc-btn-outline.mbsc-btn:not(:disabled):not(.mbsc-active):hover:hover {\n        background: #f5504e;\n        color: #fff;\n    }\n    \n    .mbsc-rtl .md-add-event-demo .md-delete-btn {\n        right: auto;\n        left: 10px;\n    }\n    \n    .md-add-event-popup {\n        max-width: 400px;\n    }",
+  "theme": "",
+  "top": "0",
+  "width": "400"
+}

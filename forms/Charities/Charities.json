@@ -1,0 +1,66 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Charities",
+        "Elements",
+        "hmbrMenu6.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Charities",
+        "Elements",
+        "lblCharities.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Charities",
+        "Elements",
+        "txtCharitiesList.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 1000,
+  "designWidth": 0,
+  "events": "onshow",
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "Charities",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "Charities.onshow()",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}

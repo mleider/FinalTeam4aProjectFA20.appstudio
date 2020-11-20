@@ -1,0 +1,128 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "pantryInfo",
+        "Elements",
+        "btnSubmitPantryRegistration.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "pantryInfo",
+        "Elements",
+        "inptPantryInfoName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "pantryInfo",
+        "Elements",
+        "inptPantryInfoAddress.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "pantryInfo",
+        "Elements",
+        "inptPantryInfoZipCode.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "pantryInfo",
+        "Elements",
+        "inptPantryInfoPhone.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "pantryInfo",
+        "Elements",
+        "inptPantryInfoContactName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "pantryInfo",
+        "Elements",
+        "inptPantryInfoCity.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "pantryInfo",
+        "Elements",
+        "lblPantryRegistration.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "pantryInfo",
+        "Elements",
+        "inptPantryInfoState.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "pantryInfo",
+        "Elements",
+        "hmbrPantryRegistration.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 600,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": "800",
+  "id": "pantryInfo",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
