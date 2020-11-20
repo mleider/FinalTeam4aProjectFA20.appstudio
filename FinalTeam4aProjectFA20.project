@@ -111,14 +111,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
             "viewNearbyAttractions",
             "viewNearbyAttractions.json"
           ]
@@ -145,14 +137,6 @@
             "forms",
             "DonationSearch2",
             "DonationSearch2.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "Form1",
-            "Form1.json"
           ]
         },
         {
